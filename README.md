@@ -14,8 +14,8 @@ You can either edit the appsettings.json file or provide the values from the com
 ```
 {
     "Defaults": {
-        "GoogleApiKey": "AIzaSyBDATcq3nTSLWLGJCBLUzYBQZs7Ayi7ugM",
-        "PlaylistId": "PLvDxU9glBJXenAGK7b-GqTc112-6dy6qi",
+        "GoogleApiKey": "<YOUR API KEY>",
+        "PlaylistId": "<PLAYLIST ID>",
         "OutputFilename": "PlayListDuration.xlsx"
     }
 }
